@@ -1,0 +1,17 @@
+#wrapper {
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+Form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    flex-direction: column;
+}
+.resultarea{
+    background-color: red;
+    float: right;
+}
